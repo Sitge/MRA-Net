@@ -24,9 +24,9 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 ```
 
 ## Data Presentation and Model Parameters
-- We provide 200 sample images from the constructed HanBamboo dataset, including the original images, the annotated ground truth images, and the binarization results produced by our model.
+- We provide 200 sample images from the constructed HanBamboo dataset, including the original images, the annotated ground truth images, and the binarization results produced by our model
 , at the [link](https://drive.google.com/drive/folders/1xR2LapoqvvTGaECGuFBfOmhBU7McmMcN?usp=drive_link).
-- Furthermore, we have provided the optimal model [parameters](https://drive.google.com/drive/folders/1GvsHvcw-RwCF_Pi9iiPidcIzCva0frw7?usp=drive_link).
+- Furthermore, we have provided the optimal model [parameters](https://drive.google.com/drive/folders/1-vBfPsdzo6wrwC0DyGDNFQfdXN6Ypdn1?usp=drive_link).
 
 ## DataFormat
 Make sure to put the files as the following structure:
