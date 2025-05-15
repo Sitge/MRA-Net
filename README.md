@@ -60,7 +60,6 @@ The model is trained on patches,We provide the code to create the patches and tr
 ```
 python create_patches.py
 python train.py 
-
 ```
 
 ### 2) Test.
