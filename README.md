@@ -31,20 +31,22 @@ pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 ## DataFormat
 Make sure to put the files as the following structure:
 ```
-dataset
-├── train
-|   ├── A
-|   │   ├── ...
-|   │
-|   └── B
-|       ├── ...
-|
-└── test
-    ├── A
-    |   ├── ...
-    |
-    └── B
-        ├── ...
+dataset_xuanquan/
+├── image1.png
+├── image2.png
+├── image3.png
+├── ……
+├── GT/
+│ ├── image1.png
+│ ├── image2.png
+│ ├── image3.png
+│ ├── ……
+├── train/
+│ ├── 0_img.png
+│ ├── 0_mask.png
+│ ├── 1_img.png
+│ ├── 1_mask.png
+│ ├──……
 ```
 
 ## Training and Validation
