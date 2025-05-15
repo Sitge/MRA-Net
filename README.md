@@ -2,7 +2,7 @@
 
 ## Our Framework
 <p align="center">
-  <img src="imgs/Architecture.png" width="80%"/>
+  <img src="model.pdf" width="80%"/>
 </p>
 
 ## Using the code:
