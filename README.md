@@ -83,5 +83,9 @@ python test.py
 
 ## Visual comparison
 <p align="left">
+  <img src="img/example1.png"/>
+</p>
+
+<p align="left">
   <img src="img/presentation.png"/>
 </p>
