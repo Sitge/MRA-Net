@@ -78,6 +78,6 @@ python test.py
 | Ours       | **84.87** | **85.16** | **17.98** | **4.33** |
 
 ## Visual comparison
-<p align="center">
+<p align="left">
   <img src="img/presentation.png"/>
 </p>
