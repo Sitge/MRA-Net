@@ -10,8 +10,8 @@ The code is stable while using Python 3.8, PyTorch 1.13.0, CUDA =11.7.
 
 ## Main environments:
 ```
-conda create -n vmunet python=3.8
-conda activate vmunet
+conda create -n mranet python=3.8
+conda activate mranet
 pip install torch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu117
 pip install packaging
 pip install pytest chardet yacs termcolor
