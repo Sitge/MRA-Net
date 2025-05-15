@@ -79,5 +79,5 @@ python test.py
 
 ## Visual comparison
 <p align="center">
-  <img src="imgs/Visual result.png"/>
+  <img src="img/presentation.png"/>
 </p>
