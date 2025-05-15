@@ -1,4 +1,4 @@
-# MRA-Net
+# Binarizing Severely Degraded Ancient Bamboo Slips: Dataset and Baseline
 
 ## Our Framework
 <p align="center">
