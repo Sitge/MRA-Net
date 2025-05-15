@@ -86,12 +86,12 @@ python test.py
 
 
 <p align="left">
-  <img src="img/example2.png" style="width: 600px;"/>
+  <img src="img/example2.png" style="width: 650px;"/>
 </p>
 
 - Comparison of binarization results of various methods on the HanBamboo dataset.
   
 <p align="left">
-  <img src="img/presentation.png" style="width: 600px;"/>
+  <img src="img/presentation.png" style="width: 650px;"/>
 </p>
 
