@@ -49,13 +49,16 @@ dataset
 
 ## Training and Validation
 ### 1) Train the model.
+The model is trained on patches,We provide the code to create the patches and train the model. 
 ```
-python train.py --dataroot path_dataset --lr 0.0002 --n_epochs 100 --size 256 --batchSize 4
+python create_patches.py
+python train.py 
+
 ```
 
 ### 2) Test.
 ```
-python test.py --dataroot path_dataset --size 256 --batchSize 4
+python test.py 
 ```
 
 ## Comparison with other methods
