@@ -67,7 +67,7 @@ python train.py
 python test.py 
 ```
 
-## Comparison with other methods
+## Comparison with other methods on the HanBamboo dataset
 | Method     | FM↑       | pFM↑      | PSNR↑     | DRD↓     |
 | ---------- | --------- | --------- | --------- | -------- |
 | Otsu       | 69.52     | 70.16     | 13.72     | 30.91    |
