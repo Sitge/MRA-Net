@@ -8,6 +8,19 @@
 ## Using the code:
 The code is stable while using Python 3.8, PyTorch 1.13.0, CUDA =11.7.
 
+## Main environments:
+conda create -n vmunet python=3.8
+conda activate vmunet
+pip install torch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu117
+pip install packaging
+pip install pytest chardet yacs termcolor
+pip install timm==0.4.12
+pip install submitit tensorboardX
+pip install triton==2.0.0
+pip install causal_conv1d==1.0.0  # causal_conv1d-1.0.0+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
+pip install mamba_ssm==1.0.1  # mmamba_ssm-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
+pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
+
 ## Data Presentation and Model Parameters
 - We provide a selection of results, including the original inputs and the enhanced model outputs, at the [link](https://drive.google.com/drive/folders/1xR2LapoqvvTGaECGuFBfOmhBU7McmMcN?usp=drive_link).
 - Furthermore, we have provided the optimal model [parameters](https://drive.google.com/drive/folders/1GvsHvcw-RwCF_Pi9iiPidcIzCva0frw7?usp=drive_link).
