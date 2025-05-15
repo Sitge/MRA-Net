@@ -1,11 +1,6 @@
 # MRA-Net
 
-## Overall
-<p align="center">
-  <img src="imgs/Overall.png"/>
-</p>
-
-## Architecture
+## Our Framework
 <p align="center">
   <img src="imgs/Architecture.png" width="80%"/>
 </p>
