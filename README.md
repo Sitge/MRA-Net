@@ -6,7 +6,7 @@
 </p>
 
 ## Using the code:
-The code is stable while using Python 3.8.3, PyTorch 1.13.0, CUDA =11.4.
+The code is stable while using Python 3.8, PyTorch 1.13.0, CUDA =11.7.
 
 ## Data Presentation and Model Parameters
 - We provide a selection of results, including the original inputs and the enhanced model outputs, at the [link](https://drive.google.com/drive/folders/1xR2LapoqvvTGaECGuFBfOmhBU7McmMcN?usp=drive_link).
