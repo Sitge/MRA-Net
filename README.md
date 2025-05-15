@@ -83,10 +83,10 @@ python test.py
 
 ## Visual comparison
 <p align="left">
-  <img src="img/example1.png" style="width: 800px;"/>
+  <img src="img/example1.png" style="width: 600px;"/>
 </p>
 
 <p align="left">
-  <img src="img/presentation.png" style="width: 850px;"/>
+  <img src="img/presentation.png" style="width: 650px;"/>
 </p>
 
