@@ -1,5 +1,10 @@
 # Binarizing Severely Degraded Ancient Bamboo Slips: Dataset and Baseline
 
+## Abstract
+Bamboo and wooden slips were the primary  writing materials in China for more than 800 years, carrying valuable historical records. However, due to the lengthy corrosion and/or  weathering effects over a period of two millennia, texts on the ancient bamboo (and wooden) slips typically suffer from severe degradation problems, such as ink deterioration and text blur, which renders the binarization of  severely degraded bamboo slip manuscripts a very challenging task. Due to the scarcity of benchmark dataset in this direction, in this work we aim to build HanBamboo, a specialized bamboo slips dataset with pixel-level annotations for research on binarization of severely degraded ancient manuscripts. HanBamboo comprises 1,000 infrared bamboo slip images displaying varying levels of ink  degradation and text blur. Among them, bamboo slips exhibiting low-contrast ink traces characterized by significant fading and diminished visibility requires remarkably greater time in pixel-level annotation, indicating the inherent difficulty in binarizing these bamboo slips. As a minor contribution, we also propose a baseline approach MRA-Net, which is an Mamba-based Encoder-Decoder framework for degraded bamboo slips binarization that devises additional multi-scale wavelet processing and adaptive re-weighted attention fusion mechanisms to capture and enhance the stroke details of the texts and suppress background noise during binarization. Comprehensive experiments on both HanBamboo and public document binarization benchmark datasets DIBCO 2017 and 2018 demonstrate the effectiveness of our baseline.
+
+
+
 ## Our Framework
 <p align="center">
   <img src="img/model.png" width="80%"/>
