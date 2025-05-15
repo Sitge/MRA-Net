@@ -82,15 +82,14 @@ python test.py
 | Ours       | **84.87** | **85.16** | **17.98** | **4.33** |
 
 ## Visual comparison
-- Result 1
-
+- Examples of original images and corresponding ground truth annotations from the HanBamboo dataset.
 
 
 <p align="left">
   <img src="img/example2.png" style="width: 600px;"/>
 </p>
 
-- Result 2
+- Comparison of binarization results of various methods on the HanBamboo dataset.
   
 <p align="left">
   <img src="img/presentation.png" style="width: 600px;"/>
