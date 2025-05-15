@@ -89,7 +89,9 @@ python test.py
 <p align="left">
   <img src="img/example2.png" style="width: 600px;"/>
 </p>
+
 - Result 2
+  
 <p align="left">
   <img src="img/presentation.png" style="width: 650px;"/>
 </p>
